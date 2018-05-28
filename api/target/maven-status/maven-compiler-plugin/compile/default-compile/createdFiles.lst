@@ -1,0 +1,6 @@
+org/openmrs/module/htmlformentryrest/api/dao/HtmlformentryrestDao.class
+org/openmrs/module/htmlformentryrest/Item.class
+org/openmrs/module/htmlformentryrest/HtmlformentryrestConfig.class
+org/openmrs/module/htmlformentryrest/HtmlformentryrestActivator.class
+org/openmrs/module/htmlformentryrest/api/HtmlformentryrestService.class
+org/openmrs/module/htmlformentryrest/api/impl/HtmlformentryrestServiceImpl.class
